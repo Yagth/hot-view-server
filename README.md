@@ -28,23 +28,4 @@ yarn dev
 ```sh
 yarn test
 ```
-
-## Author
-
-👤 **Dawit Mekonnen**
-
-- Website: https://dawit.dev
-- Github: [@Dave-lab12](https://github.com/Dave-lab12)
-- LinkedIn: [@dawit-mekonnen-a95b361b3](https://linkedin.com/in/dawit-mekonnen-a95b361b3)
-
 ## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Dave-lab12/hot-view-server/issues). You can also take a look at the [contributing guide](https://github.com/Dave-lab12/hot-view-server/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
